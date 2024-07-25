@@ -95,3 +95,8 @@ class Car:
 
 porsche_911_gt3 = Car('german')
 porsche_911_gt3.prova()
+        
+print("hello world!")
+
+class Hello: 
+    pass
