@@ -100,3 +100,8 @@ print("hello world!")
 
 class Hello: 
     pass
+
+print("Hello from adiletdev")
+
+class Adilet:
+    pass
